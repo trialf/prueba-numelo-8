@@ -83,7 +83,9 @@ public class Complejo {
 		System.out.println(s + p);
 		System.out.println("Esto es una prueba para egit");
 	}
-	
+	public void cancion(String s, Object p){
+		System.out.println("Habia una vez un circoooo que alegraba siempre el corazoooon");
+	}
 	public static void main(String[] args) {
 	
 
