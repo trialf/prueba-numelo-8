@@ -24,5 +24,6 @@ public class TestComplejo {
 		div.seti(snc.nextDouble());
 		div.mostrar("La division es:", div.getDivision(prueba));
 		System.out.println("esta rama es para el test");
+		//Holaaaaa
 	}
 }
